@@ -1,0 +1,4 @@
+I like this guy's approach:
+https://cs230.stanford.edu/projects_fall_2021/reports/103153267.pdf
+
+VADER (a pretrained model) for sentiment analysis, this simplifies our task
