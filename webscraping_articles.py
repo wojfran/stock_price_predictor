@@ -12,7 +12,7 @@ def get_nasdaq_articles():
     obj_list = []
     obj={}
 
-    target_url = "https://www.nasdaq.com/market-activity/stocks/aapl/news-headlines"
+    target_url = "https://www.nasdaq.com/market-activity/stocks/amzn/news-headlines"
 
     driver=webdriver.Chrome()
 
@@ -64,8 +64,8 @@ def get_businessInsider_articles():
 
     driver=webdriver.Chrome()
 
-    for page in range(1, 399):
-        target_url = f"https://markets.businessinsider.com/news/aapl-stock?p={page}"
+    for page in range(1, 417):
+        target_url = f"https://markets.businessinsider.com/news/amzn-stock?p={page}"
         driver.get(target_url)
 
         page_soup = BeautifulSoup(driver.page_source, 'html.parser')
@@ -107,9 +107,10 @@ def encode_dict(d):
     return encoded_dict
     
 
-obj_list = get_businessInsider_articles() + get_nasdaq_articles()
+obj_list = get_businessInsider_articles()
 obj_list = [dict(t) for t in {tuple(d.items()) for d in obj_list}]
 obj_list = [encode_dict(d) for d in obj_list]
+obj_list.sort(key=lambda x: x['date'], reverse=True)
 
 keys = obj_list[0].keys()
 with open('articles.csv', 'w', newline='', encoding='utf-8') as output_file:
