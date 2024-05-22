@@ -1,0 +1,173 @@
+Features Used,Model Performance,Correlation Coefficient,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error,95% Confidence Interval
+
+"['5day_return' 'month' 'timestamp' 'obv_ema' 'roc' 'volume' 'quarter'
+ 'price_rate_of_change' '60day_return' '7day_std' 'stochastic_oscillator'
+ 'vix' '30day_return' 'williams_r' '15day_return' 'obv' 'high_close_diff'
+ 'macd' 'cci' '7day_sma+2std' 'fear_greed' '7day_sma-2std' 'close'
+ 'low_open_diff' 'low' 'atr' '7day_sma' 'high' 'obv_roc' 'open'
+ '14day_ema' 'daily_return' 'bollinger_bands' 'daily_variation' 'momentum'
+ 'sentiment']",0.0009286697604693472,0.40127477245647497,0.021880456828731222,0.0009815083046306222,0.03132903293481339,0.061334258625183574
+
+"['month' '5day_return' 'stochastic_oscillator' 'quarter'
+ 'price_rate_of_change' 'high_close_diff' '15day_return' '7day_std'
+ '60day_return' 'williams_r' 'daily_variation' 'obv_roc' 'fear_greed'
+ 'timestamp' 'macd' 'vix' 'volume' 'obv_ema' '30day_return'
+ '7day_sma-2std' 'bollinger_bands' 'daily_return' 'cci' 'obv'
+ 'low_open_diff' 'high' 'atr' 'open' 'momentum' '7day_sma+2std' 'close'
+ '14day_ema' 'roc' 'low' '7day_sma']",0.0009130144317168742,0.47789971065657044,0.020861475088148437,0.0009016813205211106,0.03002800893367908,0.05852261550621715
+
+"['month' '5day_return' 'quarter' 'high_close_diff' 'roc'
+ 'price_rate_of_change' 'timestamp' '60day_return' 'stochastic_oscillator'
+ 'williams_r' 'cci' '30day_return' 'obv_ema' '15day_return' '7day_std'
+ 'volume' 'low' 'vix' 'daily_variation' 'daily_return' 'macd' 'obv'
+ 'low_open_diff' '7day_sma+2std' 'bollinger_bands' 'momentum' 'obv_roc'
+ '7day_sma-2std' 'high' 'open' 'close' '14day_ema' 'atr' 'fear_greed']",0.0009082148026209325,0.4979035237455288,0.020431796822866756,0.0008628921664152358,0.029375026236843363,0.057557963704641675
+
+"['month' 'quarter' 'high_close_diff' '5day_return' 'stochastic_oscillator'
+ '60day_return' 'timestamp' 'williams_r' '7day_std' 'volume' 'obv_ema'
+ '15day_return' 'price_rate_of_change' 'macd' '30day_return' 'obv'
+ '7day_sma+2std' 'bollinger_bands' 'roc' 'open' 'momentum' 'low' 'vix'
+ 'low_open_diff' '14day_ema' 'cci' 'obv_roc' 'daily_variation' 'high'
+ 'atr' '7day_sma-2std' 'close' 'daily_return']",0.0009112580883083865,0.40162050929572346,0.021343747869650032,0.00100057781712763,0.031631911373289315,0.06179765404219201
+
+"['month' 'quarter' '60day_return' 'williams_r' '5day_return' 'timestamp'
+ 'price_rate_of_change' 'stochastic_oscillator' 'roc' 'atr' '7day_std'
+ 'obv_ema' 'vix' '15day_return' '30day_return' 'macd' 'high_close_diff'
+ 'volume' 'cci' 'obv' 'high' 'momentum' '7day_sma+2std' '14day_ema'
+ 'bollinger_bands' 'low' 'obv_roc' 'low_open_diff' '7day_sma-2std' 'open'
+ 'close' 'daily_variation']",0.0009341520053567365,0.4625230476121117,0.019873377737677514,0.0009128956766310414,0.030214163510364496,0.059170975154070805
+
+"['month' 'quarter' 'stochastic_oscillator' 'williams_r' '5day_return'
+ 'atr' '7day_std' '60day_return' 'obv_ema' 'price_rate_of_change' 'macd'
+ 'roc' '15day_return' 'cci' '30day_return' 'low_open_diff' 'volume' 'vix'
+ 'bollinger_bands' 'timestamp' 'high_close_diff' 'obv' 'close' 'open'
+ 'obv_roc' '7day_sma-2std' 'high' 'low' '7day_sma+2std' 'momentum'
+ '14day_ema']",0.0008838434296194464,0.5007440723221906,0.02029610727146131,0.0008476694286922863,0.029114763071203007,0.057025248446916914
+
+"['month' 'quarter' '5day_return' '7day_std' '30day_return' '60day_return'
+ 'price_rate_of_change' 'bollinger_bands' 'williams_r' 'timestamp'
+ 'high_close_diff' 'obv' 'cci' 'stochastic_oscillator' 'obv_ema' 'volume'
+ 'atr' '15day_return' '7day_sma-2std' 'obv_roc' 'low_open_diff' 'roc'
+ '7day_sma+2std' 'low' 'momentum' 'close' 'vix' 'open' 'high' 'macd']",0.0008736388699617237,0.49836623394631857,0.020341755491819095,0.0008724317975471805,0.029536956470617968,0.05788872466148425
+
+"['month' 'quarter' '5day_return' 'stochastic_oscillator' 'atr'
+ '60day_return' 'high_close_diff' '7day_std' 'williams_r' 'volume' 'obv'
+ 'roc' 'timestamp' '30day_return' 'obv_ema' 'price_rate_of_change'
+ '15day_return' 'cci' '7day_sma-2std' 'bollinger_bands' 'close' 'open'
+ 'momentum' 'low_open_diff' 'obv_roc' 'vix' 'high' '7day_sma+2std' 'low']",0.000931722519453615,0.47604417399549376,0.02026660409388122,0.0009091482759271621,0.03015208576412521,0.059078984304934974
+
+"['month' '5day_return' 'roc' '7day_std' 'quarter' '60day_return' 'obv_ema'
+ 'timestamp' 'stochastic_oscillator' 'high_close_diff' 'atr' 'volume'
+ '15day_return' '30day_return' 'price_rate_of_change' 'obv' 'close'
+ 'bollinger_bands' 'high' 'cci' 'williams_r' 'momentum' 'low_open_diff'
+ 'obv_roc' '7day_sma+2std' '7day_sma-2std' 'open' 'vix']",0.0009082905744435266,0.3976066704858904,0.021748756567680272,0.0009713705879992121,0.031166818701933826,0.06107360590021846
+
+"['month' 'quarter' 'stochastic_oscillator' 'williams_r' '60day_return'
+ '5day_return' 'atr' 'volume' 'high_close_diff' 'price_rate_of_change'
+ 'roc' 'bollinger_bands' 'timestamp' 'cci' 'obv_ema' '7day_std'
+ '30day_return' '15day_return' '7day_sma-2std' 'obv_roc' 'open' 'high'
+ 'momentum' 'obv' 'low_open_diff' '7day_sma+2std' 'close']",0.0008876204810803756,0.474753162491195,0.020468647009452924,0.0008972349017144633,0.029953879577017454,0.058636751911273814
+
+"['month' 'stochastic_oscillator' '5day_return' 'quarter' '60day_return'
+ 'roc' 'obv_ema' 'atr' 'price_rate_of_change' 'volume' 'bollinger_bands'
+ '30day_return' 'low_open_diff' 'high_close_diff' 'timestamp' 'williams_r'
+ '7day_std' 'obv' '15day_return' '7day_sma+2std' 'obv_roc' 'high' 'cci'
+ 'momentum' '7day_sma-2std' 'open']",0.0008962184219853953,0.4663161839322091,0.021258460583463607,0.0008987969955236223,0.02997994322082052,0.05875390183566652
+
+"['month' '5day_return' 'quarter' '60day_return' 'atr' '7day_std'
+ '30day_return' 'roc' 'stochastic_oscillator' 'volume'
+ 'price_rate_of_change' 'high_close_diff' 'obv' '15day_return' 'timestamp'
+ 'cci' '7day_sma+2std' 'obv_ema' 'williams_r' 'high' 'bollinger_bands'
+ 'low_open_diff' '7day_sma-2std' 'obv_roc' 'momentum']",0.0009360497497254983,0.40048815062554716,0.021807137778692736,0.000964622350457821,0.031058370054750473,0.060873473688228076
+
+"['month' 'quarter' 'timestamp' '60day_return' 'stochastic_oscillator'
+ '30day_return' 'atr' '5day_return' '7day_std' 'high_close_diff'
+ 'williams_r' 'bollinger_bands' 'price_rate_of_change' '15day_return'
+ 'roc' 'cci' '7day_sma-2std' 'obv' 'obv_ema' '7day_sma+2std' 'obv_roc'
+ 'volume' 'high' 'low_open_diff']",0.0008754330483498052,0.5121986540844704,0.0194153618282079,0.000810820332781991,0.02847490707240308,0.055689461744889694
+
+"['month' 'quarter' '7day_std' 'roc' '30day_return' '5day_return'
+ '60day_return' 'atr' 'stochastic_oscillator' 'high_close_diff'
+ 'price_rate_of_change' 'timestamp' 'obv_ema' 'obv' 'volume' 'obv_roc'
+ '15day_return' 'bollinger_bands' 'high' '7day_sma+2std' 'cci'
+ '7day_sma-2std' 'williams_r']",0.0008985032909549773,0.4625049448953022,0.02023449712098863,0.0008901302567761031,0.029835050809008237,0.05847608401291058
+
+"['month' '7day_std' 'stochastic_oscillator' 'quarter' 'obv_ema' 'roc'
+ '30day_return' 'atr' '60day_return' 'price_rate_of_change' 'volume'
+ '5day_return' 'bollinger_bands' 'timestamp' '15day_return'
+ '7day_sma-2std' 'cci' 'high_close_diff' '7day_sma+2std' 'high' 'obv'
+ 'obv_roc']",0.0008671575487824157,0.48760693057260096,0.02054490754570748,0.0008617569155029629,0.02935569647449985,0.0574748227900221
+
+"['month' 'quarter' 'stochastic_oscillator' 'timestamp' '60day_return'
+ '5day_return' 'atr' 'obv_ema' '30day_return' 'volume' 'obv' 'roc'
+ '7day_std' 'high_close_diff' '7day_sma-2std' '7day_sma+2std' 'high'
+ 'price_rate_of_change' 'bollinger_bands' 'cci' '15day_return']",0.0008289960242109373,0.47723487198435893,0.020410459398821898,0.0008809625968823191,0.029681014081097686,0.05805078981436297
+
+"['month' 'quarter' 'stochastic_oscillator' '5day_return' 'roc'
+ 'price_rate_of_change' '60day_return' 'atr' 'obv' '7day_std'
+ '30day_return' 'high_close_diff' 'obv_ema' 'timestamp' '7day_sma-2std'
+ 'cci' 'volume' 'bollinger_bands' 'high' '7day_sma+2std']",0.0008923428977141157,0.43650895714654053,0.020976296897409097,0.0009484073658137661,0.030796223239445548,0.06026024114620998
+
+"['month' 'quarter' 'obv' 'price_rate_of_change' '5day_return' 'roc' 'atr'
+ '60day_return' '7day_std' 'timestamp' 'volume' '30day_return'
+ 'stochastic_oscillator' 'bollinger_bands' 'high_close_diff'
+ '7day_sma-2std' 'cci' 'high' 'obv_ema']",0.0008660384628456086,0.4165892632840492,0.020888691000673473,0.000918227358007519,0.030302266549014432,0.05935096292976119
+
+"['month' 'quarter' '7day_std' 'roc' 'atr' 'stochastic_oscillator'
+ 'price_rate_of_change' '5day_return' '60day_return' 'cci'
+ 'bollinger_bands' 'obv' 'high' '7day_sma-2std' 'volume' 'high_close_diff'
+ 'timestamp' '30day_return']",0.0008839478832669556,0.4414837222085194,0.02080456278229786,0.0008879993057946397,0.029799317203497124,0.05834095944784912
+
+"['month' 'quarter' 'stochastic_oscillator' 'atr' '5day_return'
+ 'bollinger_bands' '7day_std' 'price_rate_of_change' 'timestamp'
+ '7day_sma-2std' 'volume' '60day_return' 'obv' 'cci' 'high_close_diff'
+ 'roc' 'high']",0.0008718544850125909,0.4933395283495565,0.020421382587480996,0.0008379772992604584,0.02894783755758724,0.05673505612288184
+
+"['month' 'stochastic_oscillator' 'quarter' 'obv' 'atr'
+ 'price_rate_of_change' '7day_sma-2std' 'timestamp' '5day_return' 'roc'
+ '7day_std' 'volume' 'bollinger_bands' 'high_close_diff' '60day_return'
+ 'cci']",0.0008637463033664972,0.49056797699004034,0.019995900968476917,0.0008333242035945408,0.028867355327333692,0.05657851636441563
+
+"['month' 'quarter' 'stochastic_oscillator' 'obv' '5day_return'
+ 'bollinger_bands' 'atr' 'price_rate_of_change' '7day_std' 'roc'
+ 'timestamp' '7day_sma-2std' 'high_close_diff' '60day_return' 'volume']",0.0008987576293293387,0.41278375578695964,0.021701401641441034,0.0009146959842329355,0.030243941281402717,0.05927608653611889
+
+"['month' 'quarter' 'stochastic_oscillator' '7day_std' 'bollinger_bands'
+ 'obv' 'atr' '5day_return' '60day_return' 'high_close_diff'
+ '7day_sma-2std' 'price_rate_of_change' 'roc' 'timestamp']",0.0009134179708780721,0.3964837782098766,0.02163406919267675,0.0009455526522308583,0.030749839873255573,0.06022387838363825
+
+"['month' 'quarter' 'stochastic_oscillator' '7day_std' 'obv' 'atr'
+ '5day_return' 'bollinger_bands' '7day_sma-2std' 'price_rate_of_change'
+ '60day_return' 'roc' 'high_close_diff']",0.0009235066681867465,0.3771046677023809,0.022075259860077634,0.0009851429831759166,0.03138698748169242,0.06138180685206058
+
+"['month' 'quarter' 'bollinger_bands' '7day_std' 'stochastic_oscillator'
+ '60day_return' 'atr' 'price_rate_of_change' '5day_return' 'obv' 'roc'
+ '7day_sma-2std']",0.000905818393221125,0.4025106007988128,0.021823481350228026,0.0009420386753232784,0.030692648555041294,0.05974540492028619
+
+"['month' 'quarter' 'stochastic_oscillator' '7day_std' 'bollinger_bands'
+ 'obv' '60day_return' '5day_return' 'price_rate_of_change' 'atr' 'roc']",0.0008765730890445411,0.4023217619587953,0.021733040362079126,0.0009360463361913498,0.030594874345081888,0.059697519705282774
+
+"['month' 'quarter' 'obv' '7day_std' '60day_return' 'bollinger_bands' 'atr'
+ '5day_return' 'stochastic_oscillator' 'price_rate_of_change']",0.0009083020268008113,0.3483701550292915,0.022519730884578582,0.0009686587637935503,0.03112328330677132,0.06093023666367723
+
+"['month' 'quarter' 'bollinger_bands' 'obv' 'stochastic_oscillator'
+ '7day_std' '60day_return' 'atr' '5day_return']",0.0008259846217697486,0.42164913284113653,0.021269137941633993,0.0008920001024757273,0.029866370761706673,0.058465237354510105
+
+"['month' 'quarter' 'bollinger_bands' 'stochastic_oscillator' '7day_std'
+ 'atr' '60day_return' 'obv']",0.0007639446412213147,0.5019197213065861,0.02064658261692849,0.000792684947768218,0.028154661208549783,0.05510431414303769
+
+"['bollinger_bands' 'stochastic_oscillator' 'month' 'quarter' '7day_std'
+ '60day_return' 'atr']",0.0007595698698423803,0.4503630541241343,0.02134445649807141,0.0008472237994403004,0.029107109087649026,0.056957124177504495
+
+"['month' 'bollinger_bands' 'quarter' 'stochastic_oscillator'
+ '60day_return' '7day_std']",0.0007762265886412933,0.49774395608384253,0.020461925791109364,0.0008065462778636833,0.02839975841206547,0.05527142988575361
+
+"['month' 'quarter' 'stochastic_oscillator' 'bollinger_bands'
+ '60day_return']",0.000831396333524026,0.3812973257549794,0.02158792902038048,0.0009057507153956444,0.030095692638576112,0.05895747552936002
+
+['month' 'quarter' 'bollinger_bands' 'stochastic_oscillator'],0.000856231024954468,0.3147358331730168,0.022301834924333797,0.0009545847917893582,0.030896355639287915,0.06047733217077181
+
+['month' 'quarter' 'bollinger_bands'],0.0008816975605441257,0.26425816673789815,0.02284998863806912,0.000983497591204332,0.03136076515655082,0.06144255426232798
+
+['month' 'quarter'],0.0008967347239376977,0.17456923169443878,0.0227992407137334,0.0010244161252346217,0.032006501296371365,0.06272328554868642
+
