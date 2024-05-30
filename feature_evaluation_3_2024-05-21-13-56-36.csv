@@ -1,8 +1,0 @@
-Features Used,Model Performance,Correlation Coefficient,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error,95% Confidence Interval
-"['month' 'quarter' '7day_sma+2std' 'low' 'high' 'obv' 'timestamp'
- 'williams_r' '14day_ema' '7day_sma' 'obv_ema' 'open'
- 'price_rate_of_change' '30day_return' 'fear_greed' '7day_std' 'vix'
- 'macd' 'stochastic_oscillator' 'low_open_diff' '5day_return' 'close'
- 'volume' '15day_return' '60day_return' 'cci' '7day_sma-2std' 'roc'
- 'obv_roc' 'bollinger_bands' 'high_close_diff' 'atr' 'daily_variation'
- 'momentum']",0.0010708625389573474,0.43864540473027275,0.023619225336528986,0.0011750431429829952,0.03427890230131349,0.06709811916143507

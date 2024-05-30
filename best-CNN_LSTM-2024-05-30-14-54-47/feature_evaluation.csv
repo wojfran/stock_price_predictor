@@ -1,0 +1,219 @@
+Features Used,Model Performance,Correlation Coefficient,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error,95% Confidence Interval
+
+"['high' 'timestamp' '14day_ema' 'quarter' '60day_return' 'month'
+ '14day_std' '7day_sma' 'close' 'low' '7day_sma+2std' 'obv_ema'
+ '14day_sma-2std' 'open' '14day_sma' '14day_sma+2std' 'macd' 'volume'
+ 'price_rate_of_change' 'fear_greed' 'stochastic_oscillator' 'vix'
+ '7day_std' 'bollinger_bands' '7day_sma-2std' 'atr' 'williams_r' 'obv'
+ 'cci' '5day_return' 'daily_variation' 'roc' '30day_return' 'momentum'
+ '15day_return' 'low_open_diff' 'high_close_diff' 'daily_return']",0.0023836257557074227,0.5815239586232694,0.03498809161308431,0.0022893302589208787,0.04784694618176669,0.09287693612102053
+
+Features Used,Model Performance,Correlation Coefficient,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error,95% Confidence Interval
+
+"['obv' '7day_sma' 'timestamp' '14day_sma+2std' '14day_ema' 'quarter'
+ '14day_std' '7day_sma-2std' 'obv_ema' '14day_sma' 'month' 'macd'
+ 'williams_r' '30day_return' 'cci' 'atr' '7day_std' 'fear_greed'
+ '60day_return' 'vix' 'low' '14day_sma-2std' 'open' 'close' 'roc'
+ 'bollinger_bands' '7day_sma+2std' 'price_rate_of_change'
+ 'daily_variation' 'volume' 'stochastic_oscillator' 'high' '15day_return'
+ 'low_open_diff' 'momentum' '5day_return' 'high_close_diff']",0.0017082532867789268,0.6996225245097344,0.03019232805240295,0.0016607035045334484,0.04075173008024872,0.07960575787449514
+
+Features Used,Model Performance,Correlation Coefficient,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error,95% Confidence Interval
+
+"['high' '14day_sma' 'month' 'obv_ema' 'timestamp' 'quarter' '14day_ema'
+ '14day_sma+2std' 'cci' '14day_std' '7day_sma' '60day_return'
+ '7day_sma+2std' 'bollinger_bands' 'vix' 'stochastic_oscillator'
+ 'fear_greed' 'low' 'williams_r' 'macd' 'atr' 'open' '7day_sma-2std'
+ 'close' '15day_return' 'price_rate_of_change' '14day_sma-2std'
+ '30day_return' '7day_std' 'volume' 'obv' 'roc' '5day_return'
+ 'low_open_diff' 'daily_variation' 'momentum']",0.0017522845106820266,0.712808748016995,0.030141893179274605,0.001651948271578865,0.04064416651352153,0.07921943324723917
+
+Features Used,Model Performance,Correlation Coefficient,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error,95% Confidence Interval
+
+"['quarter' 'month' '14day_sma+2std' 'obv' '14day_std'
+ 'stochastic_oscillator' 'obv_ema' 'close' 'low' '60day_return'
+ '7day_sma+2std' '7day_sma-2std' 'vix' 'open' 'macd' '14day_sma-2std'
+ '7day_std' '30day_return' '14day_sma' 'timestamp' 'fear_greed' 'volume'
+ '7day_sma' 'roc' 'bollinger_bands' 'high' '14day_ema' 'daily_variation'
+ 'williams_r' 'atr' 'price_rate_of_change' 'cci' 'low_open_diff'
+ '5day_return' '15day_return']",0.0018467852690567572,0.6543244955779759,0.03162608921708707,0.0019183128227943502,0.04379854818135357,0.08526548207217323
+
+Features Used,Model Performance,Correlation Coefficient,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error,95% Confidence Interval
+
+"['obv_ema' 'obv' 'timestamp' 'quarter' '7day_sma-2std' 'high' 'month'
+ '7day_sma' '14day_sma' 'vix' '14day_sma-2std' 'open' '14day_sma+2std'
+ 'atr' 'fear_greed' 'williams_r' '60day_return' '7day_sma+2std' 'macd'
+ 'stochastic_oscillator' '14day_ema' '14day_std' 'bollinger_bands'
+ 'price_rate_of_change' '7day_std' 'low' '30day_return' 'daily_variation'
+ 'cci' 'volume' 'close' 'roc' '5day_return' 'low_open_diff']",0.001710376547028621,0.6915933184482251,0.029986702306629268,0.0017274279731452182,0.041562338398425304,0.08143023345109902
+
+Features Used,Model Performance,Correlation Coefficient,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error,95% Confidence Interval
+
+"['low' '7day_sma' 'obv_ema' 'quarter' 'atr' 'timestamp' 'month'
+ '14day_ema' 'close' '60day_return' 'stochastic_oscillator' '14day_sma'
+ 'open' '7day_sma-2std' 'obv' 'cci' '7day_std' 'fear_greed' 'macd'
+ 'daily_variation' 'vix' '30day_return' 'bollinger_bands' '7day_sma+2std'
+ '14day_sma-2std' 'high' 'volume' 'price_rate_of_change' '14day_sma+2std'
+ '14day_std' 'williams_r' 'roc' '5day_return']",0.001567362613665561,0.7449701329184004,0.02752567421788574,0.00139159709852155,0.0373041163750269,0.073070475825057
+
+Features Used,Model Performance,Correlation Coefficient,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error,95% Confidence Interval
+
+"['macd' 'obv' '7day_sma' 'timestamp' '7day_sma-2std' 'quarter' 'month'
+ 'obv_ema' 'high' '7day_sma+2std' 'low' '14day_sma' '60day_return' 'close'
+ '14day_std' 'cci' '14day_sma-2std' '30day_return' 'open' 'atr'
+ 'bollinger_bands' 'fear_greed' 'stochastic_oscillator' '14day_ema'
+ '14day_sma+2std' 'vix' 'williams_r' 'volume' 'daily_variation'
+ 'price_rate_of_change' 'roc' '7day_std']",0.0013851495071624715,0.7792067249384315,0.025636636954434702,0.0012211801479565685,0.034945388078494254,0.06849282371019996
+
+Features Used,Model Performance,Correlation Coefficient,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error,95% Confidence Interval
+
+"['timestamp' 'obv' '14day_sma' '7day_sma+2std' '14day_sma-2std' 'obv_ema'
+ '14day_ema' '60day_return' 'quarter' '14day_std' 'month' 'low' 'close'
+ 'open' '30day_return' '14day_sma+2std' 'fear_greed' 'atr' 'vix'
+ 'bollinger_bands' '7day_sma' '7day_sma-2std' 'high' 'cci' 'macd'
+ 'price_rate_of_change' 'williams_r' 'stochastic_oscillator' 'volume'
+ 'roc' 'daily_variation']",0.0013347391116743286,0.7881000395597914,0.024909412608558154,0.001194851318990898,0.03456662145756941,0.06767769795871532
+
+Features Used,Model Performance,Correlation Coefficient,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error,95% Confidence Interval
+
+"['williams_r' 'timestamp' 'obv_ema' 'obv' '14day_sma' 'low'
+ 'stochastic_oscillator' '14day_ema' 'cci' '7day_sma' 'close' 'high'
+ 'month' '60day_return' 'open' '14day_sma+2std' 'quarter' '7day_sma-2std'
+ '14day_sma-2std' 'fear_greed' 'macd' 'bollinger_bands' 'atr' 'vix'
+ '14day_std' 'price_rate_of_change' '7day_sma+2std' '30day_return'
+ 'volume' 'roc']",0.0011158330598846078,0.8134046718708027,0.02477884414386083,0.001049892296095531,0.03240204154209316,0.06250448571479394
+
+Features Used,Model Performance,Correlation Coefficient,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error,95% Confidence Interval
+
+"['timestamp' 'low' 'obv' '7day_sma+2std' '7day_sma' 'quarter' 'month'
+ '14day_sma' 'open' 'obv_ema' '60day_return' 'macd' '14day_sma-2std'
+ 'fear_greed' 'high' '30day_return' 'close' '14day_sma+2std'
+ 'price_rate_of_change' '14day_std' 'atr' 'williams_r' '7day_sma-2std'
+ 'vix' 'cci' 'stochastic_oscillator' '14day_ema' 'volume'
+ 'bollinger_bands']",0.0013057616306468844,0.7629116845377528,0.02616526557204297,0.0013582619119099427,0.036854605029900164,0.07163936042749698
+
+Features Used,Model Performance,Correlation Coefficient,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error,95% Confidence Interval
+
+"['timestamp' '7day_sma' 'low' '14day_sma-2std' 'obv_ema' '7day_sma+2std'
+ 'open' '30day_return' '14day_sma+2std' '60day_return' 'atr' 'obv' 'month'
+ 'quarter' '14day_sma' 'close' '14day_std' '14day_ema' 'macd' 'fear_greed'
+ 'vix' 'volume' 'cci' '7day_sma-2std' 'williams_r' 'price_rate_of_change'
+ 'stochastic_oscillator' 'high']",0.0011817073294272025,0.7986077958346259,0.024920630000146597,0.001116575389559439,0.03341519698519581,0.06548909542902367
+
+Features Used,Model Performance,Correlation Coefficient,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error,95% Confidence Interval
+
+"['obv' 'timestamp' '7day_sma' 'close' 'month' '60day_return' 'quarter'
+ '14day_sma-2std' '14day_std' '7day_sma-2std' 'open' 'low' 'obv_ema'
+ '14day_ema' '14day_sma' '30day_return' 'stochastic_oscillator'
+ 'fear_greed' '14day_sma+2std' '7day_sma+2std' 'macd' 'williams_r' 'vix'
+ 'atr' 'cci' 'price_rate_of_change' 'volume']",0.001270503116150697,0.7731935988421433,0.025765567872572455,0.001296994504880727,0.03601380991898423,0.06961968985233528
+
+Features Used,Model Performance,Correlation Coefficient,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error,95% Confidence Interval
+
+"['obv_ema' 'open' 'timestamp' '14day_sma-2std' 'low' 'close' '7day_sma'
+ '7day_sma-2std' 'williams_r' '14day_ema' '60day_return' '14day_sma+2std'
+ 'macd' 'quarter' '30day_return' 'fear_greed' '14day_std' 'vix' 'obv'
+ 'atr' 'cci' 'stochastic_oscillator' '7day_sma+2std' '14day_sma' 'month'
+ 'price_rate_of_change']",0.000987549506438275,0.8404458864769766,0.02288925819905436,0.0008937754098156618,0.029896076829839427,0.05859269665319062
+
+Features Used,Model Performance,Correlation Coefficient,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error,95% Confidence Interval
+
+"['timestamp' 'obv' 'open' 'obv_ema' '14day_sma-2std' '30day_return'
+ '14day_sma+2std' 'quarter' 'macd' '60day_return' '7day_sma-2std'
+ '7day_sma' '7day_sma+2std' '14day_std' 'close' 'vix' 'month' '14day_sma'
+ '14day_ema' 'fear_greed' 'stochastic_oscillator' 'cci' 'low' 'williams_r'
+ 'atr']",0.0010385735658928752,0.816142094868667,0.023188160480714506,0.001035774039654963,0.03218344356427638,0.0630159798320511
+
+Features Used,Model Performance,Correlation Coefficient,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error,95% Confidence Interval
+
+"['timestamp' 'obv' 'obv_ema' 'macd' 'open' 'quarter' '14day_ema' 'month'
+ '14day_sma+2std' 'low' '7day_sma-2std' '14day_sma' '7day_sma+2std'
+ '14day_std' 'close' 'stochastic_oscillator' '60day_return'
+ '14day_sma-2std' 'williams_r' 'fear_greed' 'vix' '7day_sma'
+ '30day_return' 'cci']",0.0009164824926604828,0.8533164775562156,0.02093422930887087,0.00083291345143712,0.028860239975390365,0.05626237213541185
+
+Features Used,Model Performance,Correlation Coefficient,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error,95% Confidence Interval
+
+"['obv' 'timestamp' 'obv_ema' '7day_sma' 'open' '14day_sma-2std' 'close'
+ 'quarter' '14day_sma' 'month' 'williams_r' 'low' 'stochastic_oscillator'
+ '7day_sma+2std' '60day_return' 'macd' '7day_sma-2std' '30day_return'
+ 'vix' '14day_sma+2std' 'fear_greed' '14day_std' '14day_ema']",0.0008805266891916593,0.8377349715367648,0.02166637452571371,0.0009074714884336527,0.0301242674339751,0.0589446347827205
+
+Features Used,Model Performance,Correlation Coefficient,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error,95% Confidence Interval
+
+"['close' 'obv_ema' 'timestamp' 'stochastic_oscillator' '14day_sma-2std'
+ 'open' 'macd' 'obv' 'quarter' 'williams_r' '14day_sma' '14day_sma+2std'
+ '14day_std' '7day_sma' 'low' '60day_return' 'month' 'fear_greed'
+ '30day_return' '7day_sma-2std' 'vix' '7day_sma+2std']",0.000844601250719279,0.8740053176071546,0.02040951997171775,0.0007556517157609522,0.02748911995246396,0.052305608884233766
+
+Features Used,Model Performance,Correlation Coefficient,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error,95% Confidence Interval
+
+"['7day_sma-2std' 'obv_ema' 'obv' 'open' 'quarter' 'timestamp' '14day_sma'
+ '14day_sma-2std' 'low' '14day_sma+2std' 'stochastic_oscillator' 'close'
+ '60day_return' 'month' 'macd' 'williams_r' '14day_std' '30day_return'
+ '7day_sma' 'fear_greed' 'vix']",0.0009283063118346035,0.8345186329978357,0.02046482911258586,0.0009311822594037669,0.03051527911397448,0.05979202763956305
+
+Features Used,Model Performance,Correlation Coefficient,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error,95% Confidence Interval
+
+"['timestamp' '7day_sma' 'obv' 'obv_ema' 'low' '14day_sma-2std'
+ '14day_sma+2std' 'open' '60day_return' 'month' '7day_sma-2std' 'quarter'
+ '30day_return' '14day_std' '14day_sma' 'close' 'macd' 'fear_greed'
+ 'williams_r' 'stochastic_oscillator']",0.0009456320743386944,0.8347380518141344,0.022279055824254768,0.0009265587248871246,0.030439427144529584,0.05929797161667712
+
+Features Used,Model Performance,Correlation Coefficient,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error,95% Confidence Interval
+
+"['obv' 'timestamp' '14day_sma+2std' 'close' '14day_sma-2std' 'obv_ema'
+ '7day_sma-2std' '14day_sma' '7day_sma' 'low' 'quarter' 'month'
+ '60day_return' 'macd' '14day_std' 'fear_greed' 'open' '30day_return'
+ 'williams_r']",0.000992762060680737,0.8497551605765695,0.021910388032418498,0.0008431394110366045,0.029036862968244426,0.05669149773414404
+
+Features Used,Model Performance,Correlation Coefficient,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error,95% Confidence Interval
+
+"['close' 'timestamp' 'obv' '14day_sma+2std' '14day_sma-2std'
+ '7day_sma-2std' '14day_sma' '7day_sma' 'month' 'obv_ema' 'open' 'quarter'
+ '60day_return' 'fear_greed' 'macd' '14day_std' 'low' '30day_return']",0.0008746066402333478,0.855593046039953,0.020666285752658792,0.0008085924693472257,0.028435760396852864,0.055697129207122754
+
+Features Used,Model Performance,Correlation Coefficient,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error,95% Confidence Interval
+
+"['obv' '14day_sma+2std' '14day_sma-2std' 'close' 'timestamp' '14day_sma'
+ '7day_sma-2std' 'quarter' 'open' '7day_sma' 'low' 'month' 'obv_ema'
+ '60day_return' 'fear_greed' '14day_std' 'macd']",0.0009863977320492268,0.835480046081489,0.0228701747643454,0.000956433157288749,0.030926253528171643,0.05932084008275429
+
+Features Used,Model Performance,Correlation Coefficient,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error,95% Confidence Interval
+
+"['close' '14day_sma+2std' 'timestamp' '7day_sma' 'obv_ema' '7day_sma-2std'
+ '14day_sma' 'low' 'open' 'obv' 'quarter' '14day_sma-2std' 'month'
+ '60day_return' 'fear_greed' '14day_std']",0.0011035472659083705,0.8430500075886486,0.022240015670257126,0.0008663127773588249,0.02943319176302198,0.057557390239841105
+
+Features Used,Model Performance,Correlation Coefficient,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error,95% Confidence Interval
+
+"['close' 'obv_ema' '14day_sma-2std' '7day_sma-2std' 'timestamp'
+ '14day_sma+2std' '14day_sma' 'month' 'quarter' 'low' 'obv' '7day_sma'
+ '60day_return' 'open' 'fear_greed']",0.0009930673598622282,0.8471233751294422,0.022600567791985746,0.0008508143183590523,0.02916872157567164,0.056766905046915575
+
+Features Used,Model Performance,Correlation Coefficient,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error,95% Confidence Interval
+
+"['close' 'timestamp' '7day_sma-2std' 'quarter' 'month' 'low' 'obv_ema'
+ '14day_sma+2std' '7day_sma' 'obv' 'open' '14day_sma' '14day_sma-2std'
+ '60day_return']",0.0009058527648448944,0.8649384450985614,0.02189323989890936,0.0007955522448982935,0.028205535713726367,0.05363682352296487
+
+Features Used,Model Performance,Correlation Coefficient,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error,95% Confidence Interval
+
+"['close' '14day_sma+2std' 'low' 'timestamp' '14day_sma-2std' 'obv' 'month'
+ 'quarter' 'open' '7day_sma-2std' 'obv_ema' '14day_sma' '7day_sma']",0.0013700683678810794,0.7831249554993129,0.02603223371232852,0.0011539636034805744,0.03397003979215471,0.06649257377678314
+
+Features Used,Model Performance,Correlation Coefficient,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error,95% Confidence Interval
+
+"['close' 'open' 'timestamp' '14day_sma-2std' '14day_sma' '14day_sma+2std'
+ '7day_sma-2std' 'month' 'obv_ema' 'obv' 'quarter' 'low']",0.0011993870721198618,0.8238704048449622,0.02443803383563687,0.000959665991401853,0.030978476260168978,0.06070282816289985
+
+Features Used,Model Performance,Correlation Coefficient,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error,95% Confidence Interval
+
+"['close' 'timestamp' '14day_sma' 'obv_ema' 'month' '14day_sma+2std'
+ 'quarter' '14day_sma-2std' '7day_sma-2std' 'obv' 'open']",0.0013424993958324194,0.8215603053766518,0.02505084744127016,0.0010113783279139092,0.03180217489282627,0.06112735329858835
+
+Features Used,Model Performance,Correlation Coefficient,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error,95% Confidence Interval
+
+"['close' 'timestamp' 'obv' '14day_sma-2std' '14day_sma+2std' '14day_sma'
+ '7day_sma-2std' 'obv_ema' 'month' 'quarter']",0.0011427296364369492,0.8355486052923189,0.023537950803367437,0.0009275657652868848,0.030455964363107678,0.05867148620971791
+
